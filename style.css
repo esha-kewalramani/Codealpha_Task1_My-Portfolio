@@ -149,7 +149,7 @@ border: 3px solid var(--neon-pink);
 margin: 0px 15px;
 box-shadow: 0 0 14px var(--neon-pink);  
 color: var(--neon-pink);
-background: linear-gradient(45deg, rgb(68, 66, 66), rgb(19, 18, 18));
+background: linear-gradient(45deg, rgb(53, 52, 52), rgb(19, 18, 18));
 color: #ff2d95;
 font-size: 2.5rem;
 display: flex;
